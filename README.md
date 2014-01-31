@@ -122,7 +122,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Silabsofts Faucet] (http://silabsoft.org/doge/index.php/)
 - [Doge faucet] (http://www.dogefaucet.com/)
 - [Free Dogecoin Faucet](http://doge.freefaucet.com.ar)
-- [Phunsauce Dogecoin Faucet](http://phunsauce.com)
+- [Phunsauce Dogecoin Faucet](http://www.phunsauce.com)
 
 ## Games
 
